@@ -1,2 +1,3 @@
-# PricingGrid
-Exemplo de tabela de preços, criado no curso: https://flexbox.io/
+# SlidingPricingGrid
+Exemplo de slide de preços, criado no curso: https://flexbox.io/
+Usando FlexBox.
